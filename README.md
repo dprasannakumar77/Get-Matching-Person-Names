@@ -30,7 +30,6 @@ Real names in forms and databases are often misspelled. This tool instantly find
 - ✅ **Customer deduplication** - Identify duplicate records
 - ✅ **Search autocomplete** - Suggest correct names instantly
 
-**[⬆ Back to Top](#task-1--smart-name-matching-system-)**
 
 ---
 
@@ -44,7 +43,6 @@ Real names in forms and databases are often misspelled. This tool instantly find
 | 📊 **Ranked results + scores** | Shows similarity percentage |
 | 🔧 **Easy to extend** | Just add names to `names.txt` |
 
-**[⬆ Back to Top](#task-1--smart-name-matching-system-)**
 
 ---
 
@@ -138,4 +136,5 @@ python main.py
 | 🔧 Virtual environment issues | Run directly with `python main.py` |
 ---
 ### 10. 📄 License <a name="license"></a>
+
 MIT License – Free for personal, academic, and commercial use.
